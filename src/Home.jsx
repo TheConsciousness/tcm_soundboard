@@ -10,6 +10,7 @@ function Home() {
     <ul>
       <li><NavLink to="/hitchhiker">Hitchhiker</NavLink></li>
       <li><NavLink to="/cook">Cook</NavLink></li>
+      <li><NavLink to="/leatherface">Leatherface</NavLink></li>
     </ul>
   </>
   )

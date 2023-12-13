@@ -3,6 +3,7 @@ import Hitchhiker from './Hitchhiker.jsx'
 import Cook from './Cook.jsx'
 import Home from './Home.jsx'
 import NotFound from './NotFound.jsx'
+import Leatherface from './Leatherface.jsx'
 import './App.css'
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
           <Route exact path="/" element={<Home />} />
           <Route path="/hitchhiker" element={<Hitchhiker />} />
           <Route path="/cook" element={<Cook />} />
+          <Route path="/leatherface" element={<Leatherface />} />
           <Route path="*" element={<NotFound />} />
       </Routes>
     </div>
