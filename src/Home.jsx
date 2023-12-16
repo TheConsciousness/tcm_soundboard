@@ -1,5 +1,5 @@
 import { NavLink } from 'react-router-dom'
-import './Cook.css'
+import './Home.css?v2'
 
 function Home() {
 
@@ -7,7 +7,7 @@ function Home() {
   <>
     <h1>Texas Chainsaw Massacre Game Soundboard</h1>
     <br/>
-    <ul>
+    <ul className='homeLinks'>
       <li><NavLink to="/hitchhiker">Hitchhiker</NavLink></li>
       <li><NavLink to="/cook">Cook</NavLink></li>
       <li><NavLink to="/leatherface">Leatherface</NavLink></li>
