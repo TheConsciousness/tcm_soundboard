@@ -1,0 +1,6 @@
+.homeLinks {
+    display: inline-flex;
+}
+li {
+    color: red;
+}

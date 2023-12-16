@@ -20,6 +20,7 @@ function Navbar() {
       <ul>
         <li><NavLink to="/hitchhiker" activeclassname="active" onClick={closeNavbar}>Hitchhiker</NavLink></li>
         <li><NavLink to="/cook" activeclassname="active" onClick={closeNavbar}>Cook</NavLink></li>
+        <li><NavLink to="/leatherface" activeclassname="active" onClick={closeNavbar}>Leatherface</NavLink></li>
       </ul>
     </nav>
     </>

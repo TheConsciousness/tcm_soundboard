@@ -1,4 +1,4 @@
-import './Hitchhiker.css'
+import './Hitchhiker.css?v5'
 
 const currentEnv = import.meta.env.MODE || 'development';
 let mainFileDir = 'hitch_sounds/';

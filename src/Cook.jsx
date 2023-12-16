@@ -21,7 +21,7 @@ const cookAudioFileList = [
   {line: "Drink up now", file: "drinkUpNow.mp3"},
   {line: "I'm gettin' fed up", file: "gettingFedUp.mp3"},
   {line: "Goddamn kids", file: "goddamnKids.mp3"},
-  {line: "Hold stil dangit", file: "holdStillDangit.mp3"},
+  {line: "Hold still dangit", file: "holdStillDangit.mp3"},
   {line: "I'mma smack that Johnny", file: "immaSmackJohnny.mp3"},
   {line: "I've had enough", file: "iveHadEnough.mp3"},
   {line: "You've landed in the shithouse", file: "landedInTheShithouse.mp3"},
